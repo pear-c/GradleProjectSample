@@ -46,4 +46,3 @@ public class Main {
         Mycalculator divideWithLambda = (a, b) -> b != 0 ? a / b : 0;
     }
 }
-f
